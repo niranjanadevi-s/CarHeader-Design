@@ -8,7 +8,7 @@ Welcome to the Car Header Design repository! This project is dedicated to creati
 
 Advanced CAD Models
 
-3D Modeling: Explore and interact with 3D models of car headers created with top-tier CAD software.
+3D Modeling: Explore and interact with 3D models of car headers created with top-tier CAD software. 
 Downloadable Files: Download models in multiple formats for use in your own projects.
 
 Performance Analysis Tools
